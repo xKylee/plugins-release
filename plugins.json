@@ -1,19 +1,19 @@
-[ 
-   { 
+[
+   {
       "projectUrl":"https://discord.gg/OpenOSRS",
       "provider":"OpenOSRS",
       "name":"Alchemical Hydra",
       "description":"Show what to pray against hydra",
       "id":"alchemicalhydra-plugin",
-      "releases":[ 
-         { 
+      "releases":[
+         {
             "date":"2020-02-08",
             "sha512sum":"496528B782ABB24ECD03E1972F54F46AC493305C62CA92E2CD57F743A8BCF8EC179258F347983869B1C2D5D6D3F75853430D531645D93962CBA68111626BB4A6",
             "version":"0.0.2",
             "url":"https://github.com/open-plugins/oprs-plugins-release/blob/master/release/alchemicalhydra-0.0.2.jar?raw=true",
             "requires":"0.0.1"
          },
-         { 
+         {
             "date":"2020-02-09",
             "sha512sum":"B55A87BEFA895A9085C4B252B8ACE87C833D94B524080C7F68CAF398D0DB28EBECDC5317773833B8F47C011F952B85D13F2BD96825ED734239D81EC41A6FAE65",
             "version":"0.0.3",
@@ -22,14 +22,14 @@
          }
       ]
    },
-   { 
+   {
       "projectUrl":"https://discord.gg/OpenOSRS",
       "provider":"OpenOSRS",
       "name":"AoE Warnings",
       "description":"Shows the final destination for AoE Attack projectiles",
       "id":"aoewarnings-plugin",
-      "releases":[ 
-         { 
+      "releases":[
+         {
             "date":"2020-02-08",
             "sha512sum":"666DA0381BE48D8A1B3993F18E92493121B0034BF2A346AAE098FC902937C5D0AA193C411F1983ACDB0EB45F30607A7B1C085C24D517BD7E28A83914E9B0546E",
             "version":"0.0.2",
@@ -38,14 +38,14 @@
          }
       ]
    },
-   { 
+   {
       "projectUrl":"https://discord.gg/OpenOSRS",
       "provider":"OpenOSRS",
       "name":"Blackjack",
       "description":"Allows for one-click blackjacking, both knocking out and pickpocketing",
       "id":"blackjack-plugin",
-      "releases":[ 
-         { 
+      "releases":[
+         {
             "date":"2020-02-08",
             "sha512sum":"4BCE2576708D4201EDCF2056F139C60419F216113597BD01DE0263330725CB146D47957733FF09A2F24A9E9BC08439AF42D1948F7305EA6906BA965596688A7A",
             "version":"0.0.3",
@@ -54,14 +54,14 @@
          }
       ]
    },
-   { 
+   {
       "projectUrl":"https://discord.gg/OpenOSRS",
       "provider":"OpenOSRS",
       "name":"Boss Timers",
       "description":"Show boss spawn timer overlays",
       "id":"bosstimers-plugin",
-      "releases":[ 
-         { 
+      "releases":[
+         {
             "date":"2020-02-08",
             "sha512sum":"5DF21FE71BC4F109A4B8144B8759BB566F3D3AB77DA503EBAA8ABC3B390E4110AA4F16FC093C58A46909B8C5AA5D1CF844943B1FCDB4895B9B7AFEE20B6CE204",
             "version":"0.0.2",
@@ -70,14 +70,14 @@
          }
       ]
    },
-   { 
+   {
       "projectUrl":"https://discord.gg/OpenOSRS",
       "provider":"OpenOSRS",
       "name":"Cerberus",
       "description":"Show what to pray against the summoned souls",
       "id":"cerberus-plugin",
-      "releases":[ 
-         { 
+      "releases":[
+         {
             "date":"2020-02-08",
             "sha512sum":"30769F9220D3AF301109CE6983E65C2A1C3CC84CF8A4E840BE7B87E2194FB913B4217A7FA7EDDE4323F8F2AEDC6D67EFB0B4052F623E962902A3AD888F4660F6",
             "version":"0.0.2",
@@ -86,14 +86,14 @@
          }
       ]
    },
-   { 
+   {
       "projectUrl":"https://discord.gg/OpenOSRS",
       "provider":"OpenOSRS",
       "name":"Clan Man Mode",
       "description":"Assists in clan PVP scenarios",
       "id":"clanmanmode-plugin",
-      "releases":[ 
-         { 
+      "releases":[
+         {
             "date":"2020-02-08",
             "sha512sum":"2EF9B3362BF8AAF9C6ED2162C4CCCECE95B547370D39A91CF0E287D080F87AE47F8C3929A2DDCC39213B823B4E669AF2437D5672D9C69CB43840672F3DF6D39D",
             "version":"0.0.2",
@@ -102,14 +102,14 @@
          }
       ]
    },
-   { 
+   {
       "projectUrl":"https://discord.gg/OpenOSRS",
       "provider":"OpenOSRS",
       "name":"CoX Helper",
       "description":"All-in-one plugin for Chambers of Xeric",
       "id":"coxhelper-plugin",
-      "releases":[ 
-         { 
+      "releases":[
+         {
             "date":"2020-02-08",
             "sha512sum":"039223AD4379851B9D6F3FE5F1981E814E9ED25B26398290B0332B11FD6E8C87F3793EF750A88297BC67AF8F374394EF57C4DDAC1C71D660E788CBEC1D099165",
             "version":"0.0.3",
@@ -118,14 +118,14 @@
          }
       ]
    },
-   { 
+   {
       "projectUrl":"https://discord.gg/OpenOSRS",
       "provider":"OpenOSRS",
       "name":"Death Indicator",
       "description":"Show where you last died, and on what world",
       "id":"deathindicator-plugin",
-      "releases":[ 
-         { 
+      "releases":[
+         {
             "date":"2020-02-08",
             "sha512sum":"686459262BAF0EFB22B15571FB8570056E2E7075C27F98667BB9DB4E76BECB0B2EB623FC1FD69BCFE5334E75FCBC56780008E459FAD2AFD96C2456A4161998AC",
             "version":"0.0.2",
@@ -134,14 +134,14 @@
          }
       ]
    },
-   { 
+   {
       "projectUrl":"https://discord.gg/OpenOSRS",
       "provider":"OpenOSRS",
       "name":"Demonic Gorillas",
       "description":"Count demonic gorilla attacks and display their next possible attack styles",
       "id":"demonicgorillas-plugin",
-      "releases":[ 
-         { 
+      "releases":[
+         {
             "date":"2020-02-08",
             "sha512sum":"050CAB44277736A99F435B17F3FF92F689AF0F6612268EB44D24A21CC427D72CCA70E8D7115647936C95757C6261583A0D4AA292BCB011CAD0DDA141EBBE14E1",
             "version":"0.0.2",
@@ -150,14 +150,14 @@
          }
       ]
    },
-   { 
+   {
       "projectUrl":"https://discord.gg/OpenOSRS",
       "provider":"OpenOSRS",
       "name":"Drop Party",
       "description":"Marks where a user ran, for drop partys",
       "id":"dropparty-plugin",
-      "releases":[ 
-         { 
+      "releases":[
+         {
             "date":"2020-02-08",
             "sha512sum":"3D37D8DA83093DF13A5087CE01A81FE5BC1B6F909C59FECE0A13173B155910DFABA1BEC71EFF2E1048E9D2CCD7FB3CCEBCDFA98C9A888178B3EF37D556BEFCB2",
             "version":"0.0.2",
@@ -166,14 +166,14 @@
          }
       ]
    },
-   { 
+   {
       "projectUrl":"https://discord.gg/OpenOSRS",
       "provider":"OpenOSRS",
       "name":"Dynamic Max Hit",
       "description":"Dynamic Max Hit Calculations",
       "id":"dynamicmaxhit-plugin",
-      "releases":[ 
-         { 
+      "releases":[
+         {
             "date":"2020-02-08",
             "sha512sum":"B64AB6F9B445DD4C71BD6196524801BD6428F062B230704AADDBC02BB23014FFE08AE49F79CA04A843A04561FE74D4060DAE48E9896DED88E1416B443EA2ACE2",
             "version":"0.0.2",
@@ -182,14 +182,14 @@
          }
       ]
    },
-   { 
+   {
       "projectUrl":"https://discord.gg/OpenOSRS",
       "provider":"OpenOSRS",
       "name":"Effect Timers",
       "description":"Effect timer overlay on players",
       "id":"effecttimers-plugin",
-      "releases":[ 
-         { 
+      "releases":[
+         {
             "date":"2020-02-10",
             "sha512sum":"E94020B207E97665870658D6C70451D54E59D6DF78C2C825E8774F7EEFEEB513685272E380DBD28B8DEE1A78D2E0C580914F4A7499A98D85E3601BA19D81C6B9",
             "version":"0.0.2",
@@ -198,14 +198,14 @@
          }
       ]
    },
-   { 
+   {
       "projectUrl":"https://discord.gg/OpenOSRS",
       "provider":"OpenOSRS",
       "name":"Equipment Inspector",
       "description":"Inspect other players their gear",
       "id":"equipmentinspector-plugin",
-      "releases":[ 
-         { 
+      "releases":[
+         {
             "date":"2020-02-08",
             "sha512sum":"31BD76F9214D71E5DA496A6804F74E867381036926616E6CE4D0950019F52705801CC777628210965E3EE4098271F9B97B6B8315C7AD2B2352DF6272C06318E7",
             "version":"0.0.2",
@@ -214,14 +214,14 @@
          }
       ]
    },
-   { 
+   {
       "projectUrl":"https://discord.gg/OpenOSRS",
       "provider":"OpenOSRS",
       "name":"Fight Cave",
       "description":"Displays current and upcoming wave monsters in the Fight Caves",
       "id":"fightcave-plugin",
-      "releases":[ 
-         { 
+      "releases":[
+         {
             "date":"2020-02-08",
             "sha512sum":"4C5F48BF389B68F2DBB94BFF1366A3B00EE9A3E34361591EE9B81571A16ED52EC6F8D8A5C28A1921A8EF4704AB55E8B38D89C790F1AB2676BAEB8AFEBF6CB352",
             "version":"0.0.2",
@@ -230,14 +230,14 @@
          }
       ]
    },
-   { 
+   {
       "projectUrl":"https://discord.gg/OpenOSRS",
       "provider":"OpenOSRS",
       "name":"Gauntlet",
       "description":"All-in-one plugin for the Gauntlet",
       "id":"gauntlet-plugin",
-      "releases":[ 
-         { 
+      "releases":[
+         {
             "date":"2020-02-08",
             "sha512sum":"9BBC5A5A9F1689BBACD918B93386A71A828AC01B3924A56D6719BA23A5EFF2CB6C3F55BA03487B54F9DF52EB8A14BDC2B0F51958B4E73BF27DA871D7E4252FAC",
             "version":"0.0.2",
@@ -246,14 +246,14 @@
          }
       ]
    },
-   { 
+   {
       "projectUrl":"https://discord.gg/OpenOSRS",
       "provider":"OpenOSRS",
       "name":"Grotesque Guardians",
       "description":"Show various helpful utitiles during the Grotesque Gaurdians (Gargoyles) fight",
       "id":"grotesqueguardians-plugin",
-      "releases":[ 
-         { 
+      "releases":[
+         {
             "date":"2020-02-08",
             "sha512sum":"12BF0931CEF50BDCC919A808EE8402F40DE1A3D0114978188FB24090CDED7454604FF21CCAF7346A78BDABB4A7B75047818A1DF28CB86106BB33139D28900BEC",
             "version":"0.0.2",
@@ -262,14 +262,14 @@
          }
       ]
    },
-   { 
+   {
       "projectUrl":"https://discord.gg/OpenOSRS",
       "provider":"OpenOSRS",
       "name":"Show/Hide Prayers",
       "description":"Hides specific Prayers",
       "id":"showhideprayers-plugin",
-      "releases":[ 
-         { 
+      "releases":[
+         {
             "date":"2020-02-08",
             "sha512sum":"65BEB3F11B1D3ACC00935491A79C1A4D4E8C618449C07E45333124F4D4F878F06CBA11FBC2FB574BABA26A5D91F475BFBB5FA739799AD745812D2ED2560E1E26",
             "version":"0.0.2",
@@ -278,14 +278,14 @@
          }
       ]
    },
-   { 
+   {
       "projectUrl":"https://discord.gg/OpenOSRS",
       "provider":"OpenOSRS",
       "name":"Hide Under",
       "description":"Hide local player when under targeted players",
       "id":"hideunder-plugin",
-      "releases":[ 
-         { 
+      "releases":[
+         {
             "date":"2020-02-08",
             "sha512sum":"E5E658F3E6B571527E40CC015D3E8C9B7CB9912135F049125BD5F128E9408DB9A57C6494970458832467121A0E9CAF4BE29B132FDDCDFBDC8511989810EBBE03",
             "version":"0.0.2",
@@ -294,14 +294,14 @@
          }
       ]
    },
-   { 
+   {
       "projectUrl":"https://discord.gg/OpenOSRS",
       "provider":"OpenOSRS",
       "name":"Hydra Helper",
       "description":"Overlays for small hydras",
       "id":"hydrahelper-plugin",
-      "releases":[ 
-         { 
+      "releases":[
+         {
             "date":"2020-02-08",
             "sha512sum":"B9FE1DCAABE7EE31B7A051795386DD75DA147F389756F53077E6CE5845C0A4173E572A11A8E83B01177FCDCFD388C8ED6EDE156AAE742FBC202E3FD307791E2A",
             "version":"0.0.2",
@@ -310,14 +310,14 @@
          }
       ]
    },
-   { 
+   {
       "projectUrl":"https://discord.gg/OpenOSRS",
       "provider":"OpenOSRS",
       "name":"Inferno",
       "description":"Inferno helper",
       "id":"inferno-plugin",
-      "releases":[ 
-         { 
+      "releases":[
+         {
             "date":"2020-02-08",
             "sha512sum":"86C20E6D5F156FD27C4B48003CB2393E2D8FEACA03DEE8D048715EFE81820F6D16389794EF2CC25D12C083E2646236B8A2F2B4D2ABD33568E9C44B5010C64EFE",
             "version":"0.0.2",
@@ -326,14 +326,14 @@
          }
       ]
    },
-   { 
+   {
       "projectUrl":"https://discord.gg/OpenOSRS",
       "provider":"OpenOSRS",
       "name":"Lizard Shamans",
       "description":"Configures timer for lizardmen shaman spawns",
       "id":"lizardshamans-plugin",
-      "releases":[ 
-         { 
+      "releases":[
+         {
             "date":"2020-02-08",
             "sha512sum":"FB0724C2AC94B2F137BF98BB926D07F09D885C3C78925440C4CCFB2F16709BC27FA984D2DC66F59F2DD8F7454D9D62983F56E019C4978F146BFF0AA8B6C95E47",
             "version":"0.0.2",
@@ -342,14 +342,14 @@
          }
       ]
    },
-   { 
+   {
       "projectUrl":"https://discord.gg/OpenOSRS",
       "provider":"OpenOSRS",
       "name":"Loot Assist Plugin",
       "description":"Creates a tile overlay with a timer that counts down to when the loot will appear to you",
       "id":"lootassistplugin-plugin",
-      "releases":[ 
-         { 
+      "releases":[
+         {
             "date":"2020-02-08",
             "sha512sum":"30897225426C034B8990B3F8FDA7750D74FDCEB9106E02CC850575AB9B69E3362C8AE5C943FD16BC385B9A53E47AD8AEE989D2DC9E71BB8D7B20ED2B825C1EC0",
             "version":"0.0.2",
@@ -358,14 +358,14 @@
          }
       ]
    },
-   { 
+   {
       "projectUrl":"https://discord.gg/OpenOSRS",
       "provider":"OpenOSRS",
       "name":"Max Hit",
       "description":"Adds the max hit of the equipped weapon to the equipment and stats widget",
       "id":"maxhit-plugin",
-      "releases":[ 
-         { 
+      "releases":[
+         {
             "date":"2020-02-08",
             "sha512sum":"35988F2878051B746FF9B63707874BBBE987C74CFC4835AD05AB65B240504C7774C9E3E27467577607B76B5CD0CAE427B48B35EE9ED7D1CCC58FAFD9F65020AE",
             "version":"0.0.1",
@@ -374,14 +374,14 @@
          }
       ]
    },
-   { 
+   {
       "projectUrl":"https://discord.gg/OpenOSRS",
       "provider":"OpenOSRS",
       "name":"Multi Lines",
       "description":"Show borders of multicombat and PvP safezones",
       "id":"multilines-plugin",
-      "releases":[ 
-         { 
+      "releases":[
+         {
             "date":"2020-02-08",
             "sha512sum":"69D3BA706F92032596B14EE16D5C660246F04CEB40D812B01FEC6EBCB117C5671C71A38401D0524A9BDCD648A1C541FC05D3DEA57F2459C7D1F4346AC3656A71",
             "version":"0.0.2",
@@ -390,14 +390,30 @@
          }
       ]
    },
-   { 
+   {
+      "projectUrl":"https://discord.gg/OpenOSRS",
+      "provider":"OpenOSRS",
+      "name":"Nightmare of Ashihama",
+      "description":"Shows what to pray and where to stand",
+      "id":"nightmare",
+      "releases":[
+         {
+            "date":"2020-02-15",
+            "sha512sum":"61d5e91abb0d55d6085bb145c701ce7b5d4afdf2fe762fef0f42baf504f0e105f482ab86e6a63b8a73f78ed7ae21cbe7cf5314b61d73082fefe49f3d45c5b9f6",
+            "version":"0.0.1",
+            "url":"https://github.com/open-plugins/oprs-plugins-release/blob/master/release/nightmare-0.0.1.jar?raw=true",
+            "requires":"0.0.1"
+         }
+      ]
+   },
+   {
       "projectUrl":"https://discord.gg/OpenOSRS",
       "provider":"OpenOSRS",
       "name":"Player Scouter",
       "description":"Scout players and output them to your discord channel!",
       "id":"playerscouter-plugin",
-      "releases":[ 
-         { 
+      "releases":[
+         {
             "date":"2020-02-08",
             "sha512sum":"417B31F7CB58B518E763F19EC64E6E9EB987063821B33EF471A334F8ACF5F0F15191C59AA05F870A515802094D6524DEFDE4048CC7040D4464861C8147F9507E",
             "version":"0.0.2",
@@ -406,14 +422,14 @@
          }
       ]
    },
-   { 
+   {
       "projectUrl":"https://discord.gg/OpenOSRS",
       "provider":"OpenOSRS",
       "name":"Pray Against Player",
       "description":"Use plugin in PvP situations for best results",
       "id":"prayagainstplayer-plugin",
-      "releases":[ 
-         { 
+      "releases":[
+         {
             "date":"2020-02-08",
             "sha512sum":"473FA712137E7276383BB5617DBB8F6D609B792A27205820855680066B75D1CAD77E031A8F5BEB607D7CFC0ECC97CC616C0496CE669DFDB41AFB8BC841C6F9DA",
             "version":"0.0.3",
@@ -422,14 +438,14 @@
          }
       ]
    },
-   { 
+   {
       "projectUrl":"https://discord.gg/OpenOSRS",
       "provider":"OpenOSRS",
       "name":"PvP Tools",
       "description":"Enable the PvP Tools panel",
       "id":"pvptools-plugin",
-      "releases":[ 
-         { 
+      "releases":[
+         {
             "date":"2020-02-08",
             "sha512sum":"2C4407E9D7BA430C8333C0F88E69B05E83B884AD123C5FC3E43E2DE8F0ED97DCC1B7431FCEA39004A1FDB6F529EEF2DC8EF887BFE6D1B8276ACEA4466DE8EF04",
             "version":"0.0.2",
@@ -438,14 +454,14 @@
          }
       ]
    },
-   { 
+   {
       "projectUrl":"https://discord.gg/OpenOSRS",
       "provider":"OpenOSRS",
       "name":"Reorder Prayers",
       "description":"Reorder the prayers displayed on the Prayer panel",
       "id":"reorderprayers-plugin",
-      "releases":[ 
-         { 
+      "releases":[
+         {
             "date":"2020-02-08",
             "sha512sum":"05E23B99665E472B100DB1DFFF4D7ABFB73811DF9582B0226B2B478E6B12027483AA42D7587176818217AADE709270062B7E261E5F3332BB1120544A0C2775CB",
             "version":"0.0.2",
@@ -454,14 +470,14 @@
          }
       ]
    },
-   { 
+   {
       "projectUrl":"https://discord.gg/OpenOSRS",
       "provider":"OpenOSRS",
       "name":"Runedoku",
       "description":"Show solutions for current Runedoku puzzle",
       "id":"runedoku-plugin",
-      "releases":[ 
-         { 
+      "releases":[
+         {
             "date":"2020-02-08",
             "sha512sum":"03C867C6A559DE1FF87F3E4CDB15AC653B899B0F7C075F47467915D78EDD8E62CA8907117F9A1D7E578116F11AFBE9D24E42EF8A9388E2B4B864AA81A53BFBDC",
             "version":"0.0.2",
@@ -470,14 +486,14 @@
          }
       ]
    },
-   { 
+   {
       "projectUrl":"https://discord.gg/OpenOSRS",
       "provider":"OpenOSRS",
       "name":"Spec Bar",
       "description":"Adds a spec bar to every weapon",
       "id":"specbar-plugin",
-      "releases":[ 
-         { 
+      "releases":[
+         {
             "date":"2020-02-08",
             "sha512sum":"9EBD01B4A922BB1577CA49C65E60E2589B78FDDDDFC6CC89DB89273668E617D464E19D9A146975E4F11ED622F96FF3249780365D1E214CD25224AEB2632D7260",
             "version":"0.0.2",
@@ -486,14 +502,14 @@
          }
       ]
    },
-   { 
+   {
       "projectUrl":"https://discord.gg/OpenOSRS",
       "provider":"OpenOSRS",
       "name":"Spellbook",
       "description":"Modifications to the spellbook",
       "id":"spellbook-plugin",
-      "releases":[ 
-         { 
+      "releases":[
+         {
             "date":"2020-02-08",
             "sha512sum":"E437EC27AE7A1905C8E810BA4673D7DE77DC313DCCCA0AF13E4D20919FB41E9D886F71E07AC9900B14FE9920D161EF1C9D6D1BDCD59318FC6A54B0BA0A9A1748",
             "version":"0.0.2",
@@ -502,21 +518,21 @@
          }
       ]
    },
-   { 
+   {
       "projectUrl":"https://discord.gg/OpenOSRS",
       "provider":"OpenOSRS",
       "name":"Stealing Artefacts",
       "description":"A plugin for the Stealing Artefacts minigame.",
       "id":"stealingartefacts-plugin",
-      "releases":[ 
-         { 
+      "releases":[
+         {
             "date":"2020-02-08",
             "sha512sum":"4182C1462C4157C55760851B0ECF45ECBF2B80E80A9937CEC4256D26E35F022961973CF71B054BFD57F773CE99CF26F77B815BB855F4AA1FCE20F6B726CB0682",
             "version":"0.0.1",
             "url":"https://github.com/open-plugins/oprs-plugins-release/blob/master/release/stealingartefacts-0.0.1.jar?raw=true",
             "requires":"0.0.1"
          },
-         { 
+         {
             "date":"2020-02-09",
             "sha512sum":"75A3DE94BAFC180E5131C83C50742300882FD244111B1CF53788C3BB59B01B5C61861E940AFC2F508967BCDA9536DA899DD404DD71FBFC291CCFCC1EF4C43F05",
             "version":"0.0.2",
@@ -525,14 +541,14 @@
          }
       ]
    },
-   { 
+   {
       "projectUrl":"https://discord.gg/OpenOSRS",
       "provider":"OpenOSRS",
       "name":"Stronghold",
       "description":"Highlights the correct answer to Stronghold of Security questions.",
       "id":"stronghold-plugin",
-      "releases":[ 
-         { 
+      "releases":[
+         {
             "date":"2020-02-08",
             "sha512sum":"25F6C43D4D512C15A922783B851A727645A038BD13B6B331502666ED4E42C83F3F27115A911FF6DBF25FDCDD4CE0723535B1BEFC10B9DEB42E3F193B7398BD9A",
             "version":"0.0.1",
@@ -541,14 +557,14 @@
          }
       ]
    },
-   { 
+   {
       "projectUrl":"https://discord.gg/OpenOSRS",
       "provider":"OpenOSRS",
       "name":"Tarn's lair",
       "description":"Mark tiles and clickboxes to help traverse the maze",
       "id":"tarnslair-plugin",
-      "releases":[ 
-         { 
+      "releases":[
+         {
             "date":"2020-02-08",
             "sha512sum":"7DA0C16F6C903F675EC96AE87D75E68BA927016FC33298CA3E0626CDA0E6E1CD99A718380D09DEB749F276802EBB55C8020EF41A1B7359AE85002A28C2CFF2F6",
             "version":"0.0.2",
@@ -557,14 +573,14 @@
          }
       ]
    },
-   { 
+   {
       "projectUrl":"https://discord.gg/OpenOSRS",
       "provider":"OpenOSRS",
       "name":"Temple Trekking",
       "description":"Helpers for the Temple Trek minigame",
       "id":"templetrekking-plugin",
-      "releases":[ 
-         { 
+      "releases":[
+         {
             "date":"2020-02-08",
             "sha512sum":"E2ACA747B351E10BB54A0909E2C6A16160A1987F6496CBD8BAE69EA0F80E04FE8DA29041340040D78840839C49C5495D361A9DF464832C4249DBD18DCCFA1408",
             "version":"0.0.1",
@@ -573,14 +589,14 @@
          }
       ]
    },
-   { 
+   {
       "projectUrl":"https://discord.gg/OpenOSRS",
       "provider":"OpenOSRS",
       "name":"Theatre Of Blood",
       "description":"All-in-one plugin for Theatre of Blood",
       "id":"theatreofblood-plugin",
-      "releases":[ 
-         { 
+      "releases":[
+         {
             "date":"2020-02-08",
             "sha512sum":"0DFC88163E92FBE253120DECB076ED6CD35EA1B7ED71406225B3EFF71E50E013497CD8F3B791C629FB980CABD489467B2D1DC2BBDF39F68AA1E5DFB0C5CD68EA",
             "version":"0.0.2",
@@ -589,14 +605,14 @@
          }
       ]
    },
-   { 
+   {
       "projectUrl":"https://discord.gg/OpenOSRS",
       "provider":"OpenOSRS",
       "name":"Boss Tick Timers",
       "description":"Tick timers for bosses",
       "id":"bossticktimers-plugin",
-      "releases":[ 
-         { 
+      "releases":[
+         {
             "date":"2020-02-10",
             "sha512sum":"AAA010F63B52FEA1C1B8DAF7FF7781E92916E430132CA5107D1158F752DAC5D242D08343E02DD6B4EBDFB692E224F1AD6476EC1E72B8565DEAE07D1EFA50AA10",
             "version":"0.0.3",
@@ -605,14 +621,14 @@
          }
       ]
    },
-   { 
+   {
       "projectUrl":"https://discord.gg/OpenOSRS",
       "provider":"OpenOSRS",
       "name":"ToB Damage Counter",
       "description":"Gives you an estimation damage on a boss and taken after the fight is done the damage will be posted in the chat",
       "id":"tobdamagecounter-plugin",
-      "releases":[ 
-         { 
+      "releases":[
+         {
             "date":"2020-02-08",
             "sha512sum":"CFEC63272E464A6AAEAAA06175545E87CFFB798C31DBCB2A5FDEEBD802893238C5A9595CB33AD505FBA6FD09539386746C2D9BCCC3137EA11098F537898919DA",
             "version":"0.0.2",
@@ -621,14 +637,14 @@
          }
       ]
    },
-   { 
+   {
       "projectUrl":"https://discord.gg/OpenOSRS",
       "provider":"OpenOSRS",
       "name":"Vet'ion",
       "description":"Tracks Vet'ion's special attacks",
       "id":"vetion-plugin",
-      "releases":[ 
-         { 
+      "releases":[
+         {
             "date":"2020-02-08",
             "sha512sum":"1D83CB7475B178AEFAC302FACE2ECF29A543CE775EB0D3D293DB9D569B9BA1846B8CA18FD445035A56C6729C2BD3BC3EB465A5E24BB3761C9EED2158E649D0CC",
             "version":"0.0.2",
@@ -637,14 +653,14 @@
          }
       ]
    },
-   { 
+   {
       "projectUrl":"https://discord.gg/OpenOSRS",
       "provider":"OpenOSRS",
       "name":"Vorkath",
       "description":"Count vorkath attacks, indicate next phase, wooxwalk timer, indicate path through acid",
       "id":"vorkath-plugin",
-      "releases":[ 
-         { 
+      "releases":[
+         {
             "date":"2020-02-08",
             "sha512sum":"9D3B74E93E67CEE2C28F54198BDD0981EE34970FE23BF950D7B959A650C702B870480685A3C31686250EDC0AB7BB32A484B88C2143B7A73B025E141BCF1B139A",
             "version":"0.0.2",
@@ -653,14 +669,14 @@
          }
       ]
    },
-   { 
+   {
       "projectUrl":"https://discord.gg/OpenOSRS",
       "provider":"OpenOSRS",
       "name":"Whale Watchers",
       "description":"A Plugin to save help whales in the wild",
       "id":"whalewatchers-plugin",
-      "releases":[ 
-         { 
+      "releases":[
+         {
             "date":"2020-02-08",
             "sha512sum":"6E6476EFDF9BF1544DF257AE28082FF9CDCBC53A221275AC05BEF5855A6CEA42014F3360037144CCCB65B30F2F8C7995375AAFEDF30FF63BCF658B031DE96357",
             "version":"0.0.2",
@@ -669,14 +685,14 @@
          }
       ]
    },
-   { 
+   {
       "projectUrl":"https://discord.gg/OpenOSRS",
       "provider":"OpenOSRS",
       "name":"Wilderness Locations",
       "description":"Indicates the players current location in the wild",
       "id":"wildernesslocations-plugin",
-      "releases":[ 
-         { 
+      "releases":[
+         {
             "date":"2020-02-08",
             "sha512sum":"AFC49ABAE563D5284B4E214F4B7E5FF69695FFB835FEC1865761BF22F2A790ACABBF174D0985A1E9170F44EA0D9C07CF87EE1A879665285C07554508EF7713A8",
             "version":"0.0.2",
@@ -685,14 +701,14 @@
          }
       ]
    },
-   { 
+   {
       "projectUrl":"https://discord.gg/OpenOSRS",
       "provider":"OpenOSRS",
       "name":"Zulrah",
       "description":"Shows tiles on where to stand during the phases and what prayer to use",
       "id":"zulrah-plugin",
-      "releases":[ 
-         { 
+      "releases":[
+         {
             "date":"2020-02-08",
             "sha512sum":"03831D8A1DE56E3B926EFCA422AFE52ABAD7F420E4C7EFD2C492CF1DA7A7B3E886D29E2BC04BFE4D7374CF02D510886B6F3C37CC70F26ACC4BAB05AE283D9A48",
             "version":"0.0.2",
