@@ -1,4 +1,5 @@
 ![xKylee - CI (Push)](https://github.com/xKylee/plugins-source/workflows/xKylee%20-%20CI%20(Push)/badge.svg?branch=master)
 
-# plugins-release
-External OpenOSRS plugins (release)
+# xKylee Plugins (Release) Repository.
+
+This is a collection of un-official plugins, This repository is not affiliated with OpenOSRS, Runelite or Jagex in any way.
